@@ -2,7 +2,7 @@
 
 **Autor:** Hugo Méndez Lee - 241265
 
-**Enlace al video de demostración:** [INSERTA EL LINK DEL VIDEO AQUÍ]
+**Enlace al video de demostración:** https://youtu.be/g8U6nfPVjuY 
 
 ---
 
